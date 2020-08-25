@@ -1,0 +1,1 @@
+# mvn_c4t_resource_artifacts
